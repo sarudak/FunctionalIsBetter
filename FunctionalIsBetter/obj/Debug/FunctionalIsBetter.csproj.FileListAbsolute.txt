@@ -1,0 +1,7 @@
+c:\play\functional-better\FunctionalIsBetter\FunctionalIsBetter\obj\Debug\FunctionalIsBetter.csprojResolveAssemblyReference.cache
+c:\play\functional-better\FunctionalIsBetter\FunctionalIsBetter\bin\Debug\FunctionalIsBetter.dll
+c:\play\functional-better\FunctionalIsBetter\FunctionalIsBetter\bin\Debug\FunctionalIsBetter.pdb
+c:\play\functional-better\FunctionalIsBetter\FunctionalIsBetter\bin\Debug\nunit.framework.dll
+c:\play\functional-better\FunctionalIsBetter\FunctionalIsBetter\bin\Debug\nunit.framework.xml
+c:\play\functional-better\FunctionalIsBetter\FunctionalIsBetter\obj\Debug\FunctionalIsBetter.dll
+c:\play\functional-better\FunctionalIsBetter\FunctionalIsBetter\obj\Debug\FunctionalIsBetter.pdb
