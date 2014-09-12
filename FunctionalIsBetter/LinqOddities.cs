@@ -41,9 +41,11 @@ namespace FunctionalIsBetter
             var selectedItem = selectableReceipt.First(x => x.Id == 1);
             selectedItem.Selected = true;
 
-            Assert.That(selectableReceipt.Count(x => x.Selected == true), Is.EqualTo(1));
+            Assert.That(selectableReceipt.Count(x => x.Selected), Is.EqualTo(1));
         }
     }
+
+    
 
     public class SelectableItem
     {
